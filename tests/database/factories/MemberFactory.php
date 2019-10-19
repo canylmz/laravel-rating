@@ -10,7 +10,7 @@
 |
 */
 
-$factory->define(\Compubel\Rating\Test\Models\Member::class, function () {
+$factory->define(\Canylmz\Rating\Test\Models\Member::class, function () {
     return [
         'name'           => str_random(10),
     ];

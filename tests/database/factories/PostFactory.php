@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Str;
-use Compubel\Rating\Test\Models\Post;
+use Canylmz\Rating\Test\Models\Post;
 
 /*
 |--------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 <?php
 
-namespace Compubel\Rating\Models;
+namespace Canylmz\Rating\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

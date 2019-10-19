@@ -1,9 +1,9 @@
 <?php
 
-namespace Compubel\Rating\Test\Models;
+namespace Canylmz\Rating\Test\Models;
 
-use Compubel\Rating\CanRate;
-use Compubel\Rating\Contracts\Rater;
+use Canylmz\Rating\CanRate;
+use Canylmz\Rating\Contracts\Rater;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable implements Rater

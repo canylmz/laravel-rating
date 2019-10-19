@@ -1,8 +1,8 @@
 <?php
 
-namespace Compubel\Rating;
+namespace Canylmz\Rating;
 
-use Compubel\Rating\Contracts\Rateable;
+use Canylmz\Rating\Contracts\Rateable;
 
 trait CanBeRated
 {

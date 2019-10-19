@@ -1,6 +1,6 @@
 <?php
 
-namespace Compubel\Rating\Exceptions;
+namespace Canylmz\Rating\Exceptions;
 
 use InvalidArgumentException;
 

@@ -10,7 +10,7 @@
 |
 */
 
-$factory->define(\Compubel\Rating\Test\Models\User::class, function () {
+$factory->define(\Canylmz\Rating\Test\Models\User::class, function () {
     return [
         'name'           => 'Name'.str_random(5),
         'email'          => str_random(5).'@gmail.com',

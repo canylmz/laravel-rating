@@ -1,6 +1,6 @@
 <?php
 
-namespace Compubel\Rating;
+namespace Canylmz\Rating;
 
 trait Rate
 {

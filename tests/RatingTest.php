@@ -1,13 +1,13 @@
 <?php
 
-namespace Compubel\Rating\Test;
+namespace Canylmz\Rating\Test;
 
 use BadMethodCallException;
-use Compubel\Rating\Test\Models\Post;
-use Compubel\Rating\Test\Models\User;
-use Compubel\Rating\Test\Models\Member;
-use Compubel\Rating\Exceptions\ModelNotRateable;
-use Compubel\Rating\Exceptions\RatingAlreadyExists;
+use Canylmz\Rating\Test\Models\Post;
+use Canylmz\Rating\Test\Models\User;
+use Canylmz\Rating\Test\Models\Member;
+use Canylmz\Rating\Exceptions\ModelNotRateable;
+use Canylmz\Rating\Exceptions\RatingAlreadyExists;
 
 class RatingTest extends TestCase
 {

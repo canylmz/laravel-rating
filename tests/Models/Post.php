@@ -1,9 +1,9 @@
 <?php
 
-namespace Compubel\Rating\Test\Models;
+namespace Canylmz\Rating\Test\Models;
 
-use Compubel\Rating\CanBeRated;
-use Compubel\Rating\Contracts\Rateable;
+use Canylmz\Rating\CanBeRated;
+use Canylmz\Rating\Contracts\Rateable;
 use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model implements Rateable

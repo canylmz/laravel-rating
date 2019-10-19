@@ -1,6 +1,6 @@
 <?php
 
-namespace Compubel\Rating\Contracts;
+namespace Canylmz\Rating\Contracts;
 
 interface Rateable
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Compubel\Rating\Test;
+namespace Canylmz\Rating\Test;
 
-use Compubel\Rating\RatingServiceProvider;
+use Canylmz\Rating\RatingServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra

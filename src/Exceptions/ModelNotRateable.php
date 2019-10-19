@@ -1,9 +1,9 @@
 <?php
 
-namespace Compubel\Rating\Exceptions;
+namespace Canylmz\Rating\Exceptions;
 
 use InvalidArgumentException;
-use Compubel\Rating\Contracts\Rateable;
+use Canylmz\Rating\Contracts\Rateable;
 
 class ModelNotRateable extends InvalidArgumentException
 {

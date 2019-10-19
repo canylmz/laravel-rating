@@ -1,11 +1,11 @@
 <?php
 
-namespace Compubel\Rating;
+namespace Canylmz\Rating;
 
-use Compubel\Rating\Contracts\Rating;
-use Compubel\Rating\Contracts\Rateable;
-use Compubel\Rating\Exceptions\ModelNotRateable;
-use Compubel\Rating\Exceptions\RatingAlreadyExists;
+use Canylmz\Rating\Contracts\Rating;
+use Canylmz\Rating\Contracts\Rateable;
+use Canylmz\Rating\Exceptions\ModelNotRateable;
+use Canylmz\Rating\Exceptions\RatingAlreadyExists;
 
 trait CanRate
 {
