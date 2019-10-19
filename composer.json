@@ -1,6 +1,8 @@
 {
     "name": "canylmz/laravel-rating",
+    "version": "v0.0.1",
     "description": "Associate ratings to any Eloquent model",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -50,5 +52,6 @@
                 "Canylmz\\Rating\\RatingServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
