@@ -1,11 +1,13 @@
 # Laravel Rating
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/canylmz/laravel-rating.svg?style=flat-square)](https://packagist.org/packages/canylmz/laravel-rating)
+[![Latest Stable Version](https://poser.pugx.org/canylmz/laravel-rating/v/stable)](https://packagist.org/packages/canylmz/laravel-rating)
 [![Build Status](https://img.shields.io/travis/canylmz/laravel-rating/master.svg?style=flat-square)](https://travis-ci.org/canylmz/laravel-rating)
-[![codecov](https://img.shields.io/codecov/c/github/canylmz/laravel-rating.svg?style=flat-square)](https://codecov.io/gh/canylmz/laravel-rating)
+[![codecov](https://codecov.io/gh/canylmz/laravel-rating/branch/master/graph/badge.svg)](https://codecov.io/gh/canylmz/laravel-rating)
 [![Quality Score](https://img.shields.io/scrutinizer/g/canylmz/laravel-rating.svg?style=flat-square)](https://scrutinizer-ci.com/g/canylmz/laravel-rating)
 [![StyleCI](https://styleci.io/repos/216253476/shield)](https://styleci.io/repos/216253476)
-[![Total Downloads](https://img.shields.io/packagist/dt/canylmz/laravel-rating.svg?style=flat-square)](https://packagist.org/packages/canylmz/laravel-rating)
+[![Total Downloads](https://poser.pugx.org/canylmz/laravel-rating/downloads)](https://packagist.org/packages/canylmz/laravel-rating)
+[![License](https://poser.pugx.org/canylmz/laravel-rating/license)](https://packagist.org/packages/canylmz/laravel-rating)
 
 Associate ratings to any Eloquent model.
 
