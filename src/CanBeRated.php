@@ -2,8 +2,6 @@
 
 namespace Canylmz\Rating;
 
-use Canylmz\Rating\Contracts\Rateable;
-
 trait CanBeRated
 {
     /**
